@@ -3,7 +3,7 @@
   <p><em>Computer Engineering Student • Full-Stack Developer • Tinkerer</em></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Building+web+apps+%26+backend+systems;C%2B%2B%2C+Python%2C+FastAPI+%26+Next.js;Playing+guitar+%26+editing+videos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Building+web+apps+%26+backend+systems;C%2B%2B%2C+Python%2C+FastAPI+%26+Next.js;" alt="Typing SVG" />
   </a>
 </div>
 
