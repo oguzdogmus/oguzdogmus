@@ -10,9 +10,9 @@
 ---
 
 ### ⚡ About Me
-* 🎓 **Academic:** Computer Engineering student
+* 🎓 **Academic:** Computer Engineering
 * 💻 **Focus:** Full-stack development, API design, automation, and backend architectures
-* 🎸 **Offline:** Playing classical guitar, video editing, and RPGs
+* 🎸 **Offline:** Video editing, RPGs and Game Dev.
 * 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/oguz-dogmus) • [Email](mailto:mustafaoguzdogmus@gmail.com)
 
 ---
