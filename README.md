@@ -10,7 +10,7 @@
 
 - **[ZomboidTrack](https://zomboidtrack.com):** web tracker for our Project Zomboid server
 - **[webkibris.com](https://webkibris.com):** co-founded web development service
-- **[Mimir](https://github.com/oguzdogmus/mimir)**
+- **[Mimir](https://github.com/oguzdogmus/mimir)**: Exam study companion plugin for your agents.
 
 ![oguzdogmus's Campfire](https://questlog.cc/oguzdogmus/streak/forest-moonlit/night?fire=themed)
 
