@@ -16,7 +16,7 @@
 
 ![Get In Touch](https://questlog.cc/decorations/enchanted-clearing?title=Get%20In%20Touch&time=night)
 
-- **Email:** mustafaoguzdogmus at gmail.com
+- **Email:** mustafaoguzdogmus@gmail.com
 - **LinkedIn:** [linkedin.com/in/oguz-dogmus](https://www.linkedin.com/in/oguz-dogmus/)
 
 ![Banner](https://questlog.cc/decorations/forest-divider?time=night)
