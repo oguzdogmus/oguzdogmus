@@ -1,35 +1,48 @@
-<div align="center">
-  <h1>Hi, I'm Oğuz 👋</h1>
-  <p><em>Computer Engineering Student • Full-Stack Developer • Tinkerer</em></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/decorations/reading-nook?title=About%20Me&time=night">
+  <img alt="About Me" src="https://questlog.cc/decorations/reading-nook?title=About%20Me">
+</picture>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Building+web+apps+%26+backend+systems;C%2B%2B%2C+Python%2C+FastAPI+%26+Next.js;" alt="Typing SVG" />
-  </a>
-</div>
+# Hi, I'm oguz
 
----
+A line or two about you: what you build, what you're learning, how to reach you.
 
-### ⚡ About Me
-* 🎓 **Academic:** Computer Engineering
-* 💻 **Focus:** Full-stack development, API design, automation, and backend architectures
-* 🎸 **Offline:** Video editing, RPGs and Game Dev.
-* 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/oguz-dogmus) • [Email](mailto:mustafaoguzdogmus@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/oguzdogmus/stats/forest/night">
+  <img alt="oguzdogmus's Character Sheet" src="https://questlog.cc/oguzdogmus/stats">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/decorations/workbench?title=Technical%20Skills&time=night">
+  <img alt="Technical Skills" src="https://questlog.cc/decorations/workbench?title=Technical%20Skills">
+</picture>
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,dotnet,fastapi,nextjs,react,ts,postgres,supabase,git,linux,tailwind" alt="Tech Stack" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/oguzdogmus/languages/forest/night">
+  <img alt="oguzdogmus's Spellbook" src="https://questlog.cc/oguzdogmus/languages">
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/decorations/raven-moon?title=Projects&time=night">
+  <img alt="Projects" src="https://questlog.cc/decorations/raven-moon?title=Projects">
+</picture>
 
-### 📊 GitHub Overview
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+- **A project:** what it does, and a link
+- **Another project:** what it does, and a link
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/oguzdogmus/streak/forest/night?fire=themed">
+  <img alt="oguzdogmus's Campfire" src="https://questlog.cc/oguzdogmus/streak?fire=themed">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/decorations/enchanted-clearing?title=Get%20In%20Touch&time=night">
+  <img alt="Get In Touch" src="https://questlog.cc/decorations/enchanted-clearing?title=Get%20In%20Touch">
+</picture>
+
+- Where people can reach you
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://questlog.cc/decorations/forest-footer?time=night">
+  <img alt="Banner" src="https://questlog.cc/decorations/forest-footer">
+</picture>
